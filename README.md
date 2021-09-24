@@ -1,2 +1,5 @@
-# exploring-religious-landscapes
-Exploring the religious landscape in the U.S.
+
+# Exploring Religious Landscapes
+
+Exploring religious landscapes in the U.S.
+
